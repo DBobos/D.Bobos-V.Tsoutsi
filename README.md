@@ -85,15 +85,6 @@ Trains an XGBoost classifier on `timeseries_data.csv` (NTU only) with `RandomUnd
 
 ---
 
-### Step 10 — All publication figures at 300 DPI
-**`10_generate_all_publication_figures.py`**  
-Regenerates all six publication figures (Figs 1–6) at 300 DPI in one run, including the motorway (Fig 1) and urban low-traffic (Fig 3) 3D route maps.
-
-**Requires:** `aggregated_data.csv`, `timeseries_data.csv`, `df_ntu_mtway.csv`, `df_ntu_urblt.csv`  
-**Output:** `hires_plots/fig1_motorway_3d_map.png` through `fig6_xgb_feature_importance.png`
-
----
-
 ## Dependencies
 
 Install with:
