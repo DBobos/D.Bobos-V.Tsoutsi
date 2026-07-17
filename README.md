@@ -106,13 +106,4 @@ Python 3.9+ recommended.
 
 ---
 
-## Figure index
 
-| Figure | Script | Description |
-|---|---|---|
-| Fig 1 | `10_generate_all_publication_figures.py` | Motorway 3D route map (pos_x, pos_y, heading) |
-| Fig 2 | `10_generate_all_publication_figures.py` | Mean speed along motorway track by class |
-| Fig 3 | `10_generate_all_publication_figures.py` | Urban low-traffic 3D route map |
-| Fig 4 | `10_generate_all_publication_figures.py` | Mean speed along urban track by class |
-| Fig 5 | `05_random_forest_aggregated.py` | Random Forest feature importances (aggregated data) |
-| Fig 6 | `07_xgboost_timeseries.py` | XGBoost feature importances (timeseries data) |
